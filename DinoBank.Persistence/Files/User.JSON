@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "UserName": "user001",
+    "Password": "pass001",
+    "Type": "Internal"
+  },
+  {
+    "Id": 2,
+    "UserName": "user002",
+    "Password": "pass002",
+    "Type": "Internal"
+  },
+  {
+    "Id": 3,
+    "UserName": "user003",
+    "Password": "pass003",
+    "Type": "External"
+  }
+]
